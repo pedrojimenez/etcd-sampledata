@@ -1,0 +1,2 @@
+subsonic "http://localhost:4040"
+plex "http://localhost:32400"
